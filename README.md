@@ -2,6 +2,9 @@
 
 Sistema de Eventos encomendado pela Morena.
 
+[![Build Status](https://travis-ci.org/klebercode/eventex-klebercode.svg?branch=master)](https://travis-ci.org/klebercode/eventex-klebercode)
+[![Code Health](https://landscape.io/github/klebercode/eventex-klebercode/master/landscape.svg?style=flat)](https://landscape.io/github/klebercode/eventex-klebercode/master)
+
 ## Como desenvolver?
 
 1. Clone o repositório
